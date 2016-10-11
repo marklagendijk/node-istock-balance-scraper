@@ -8,7 +8,7 @@
 
 ## Installation
 ### Installation with automatic start on boot, using PM2 on Windows
-Execute the following commands.
+Execute the following commands (that means: open Command Prompt, enter the command, and press `enter`).
 
 1. Install Node.js 6.x or higher ([Windows](https://nodejs.org/en/download/current/) | [Linux](https://github.com/nodesource/distributions#debinstall) | [OSx](https://nodejs.org/en/download/current/)).
 2. `npm install -g pm2 pm2-windows-startup istock-balance-scraper`
