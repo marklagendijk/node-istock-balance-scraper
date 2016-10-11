@@ -1,4 +1,11 @@
 # node-istock-balance-scraper
+`istock-balance-scraper` is a tool written in Node.js which can scrape and display your iStock account balance. The tool has the following features:
+
+* Displays system notification on startup. E.g. 'Balance: $50'.
+* Displays system notification every 30 minutes, but only if the balance was changed. E.g. 'New balance: $60 (+$10)'.
+* Can run in the background.
+* Can automatically start on boot.
+
 ## Installation
 ### Installation with automatic start on boot, using PM2 on Windows
 Execute the following commands.
