@@ -1,0 +1,10 @@
+{
+  "apps": [
+    {
+      "name": "istock-balance-scraper",
+      "script": "./index.js",
+      "args": "direct"
+    }
+  ]
+}
+

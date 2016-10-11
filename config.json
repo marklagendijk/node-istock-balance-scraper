@@ -1,0 +1,7 @@
+{
+  "pollingIntervalInMinutes": 30,
+  "credentials": {
+    "username": "",
+    "password": ""
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "istock-balance-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Mark Lagendijk <mark@lagendijk.nl> (http://marklagendijk.nl)",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "cheerio": "^0.22.0",
+    "editor": "^1.0.0",
+    "fs-extra-promise": "^0.4.1",
+    "lodash": "^4.16.4",
+    "node-notifier": "^4.6.1",
+    "request": "^2.75.0",
+    "request-promise": "^4.1.1",
+    "untildify": "^3.0.2",
+    "yargs": "^6.0.0"
+  },
+  "preferGlobal": true,
+  "bin": {
+    "istock-balance-scraper": "index.js"
+  }
+}
