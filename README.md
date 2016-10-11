@@ -16,6 +16,13 @@ Execute the following commands (that means: open Command Prompt, enter the comma
 4. `istock-balance-scraper config`. Fill in your username and password.
 5. `istock-balance-scraper pm2`
 
+### Displaying the notifications in the Windows notification center
+By default Windows doesn't display the notifications in the notification center. You can enable this by doing the following steps.
+
+1. Go to 'notifications & actions settings' (`Windows key`, type 'notifications', `enter`)
+2. Click on the 'toast' app at the bottom of the screen.
+3. Enable the 'show in action center' checkbox.
+
 ### Bare installation
 Execute the following commands.
 
