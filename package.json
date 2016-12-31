@@ -1,6 +1,6 @@
 {
   "name": "istock-balance-scraper",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "keywords": [],
@@ -9,6 +9,7 @@
   "dependencies": {
     "bluebird": "^3.4.6",
     "cheerio": "^0.22.0",
+    "durable-json-lint": "0.0.2",
     "editor": "^1.0.0",
     "fs-extra-promise": "^0.4.1",
     "lodash": "^4.16.4",
