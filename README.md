@@ -31,6 +31,11 @@ Execute the following commands.
 3. `istock-balance-scraper config`. Fill in your username and password.
 4. `istock-balance-scraper direct`
 
+## Updating
+1. `pm2 kill`
+2. `npm install -g istock-balance-scraper`
+3. `istock-balance-scraper pm2`
+
 ## Stopping
 ### Stopping just the app
 Execute `pm2 stop istock-balance-scraper`
